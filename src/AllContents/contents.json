@@ -1,0 +1,14 @@
+{
+    "name": "Hi, I'm Sriram 👋",
+    "buildscalable": "I build scalable and high-performing web applications using modern technologies like React.",
+    "contact":"Contact",
+    "skills1":"Passionate React.js Developer dedicated to building modern, scalable, and high-performing web applications. With a strong foundation in JavaScript, I specialize in creating dynamic and responsive user interfaces using MUI and CSS",
+    "uidevelopment":"Responsive UI Development",
+    "subheadinguidevelopment":" I craft pixel-perfect, mobile-friendly designs that adapt seamlessly across devices using MUI, CSS, and modern design principles.",
+    "statemanagement":"Efficient State Management",
+    "substatemanagement":" I leverage Redux to efficiently manage application state, ensuring scalability and maintainability",
+    "advancedreactfunctionality":"Advanced React Functionality",
+    "subadvancedreactfunctionality":"I have deep expertise in React Hooks, optimizing performance, and handling complex UI logic efficiently.",
+    "problemsolving":"Problem-Solving with JavaScript",
+    "subproblemsolving":"Whether it's API integrations, asynchronous operations, or dynamic data handling, I bring robust JavaScript solutions to the table."
+}
