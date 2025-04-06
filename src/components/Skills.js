@@ -15,7 +15,7 @@ function Skills() {
   }, []);
 
   return (
-    <Box sx={{ position: "relative", width: "100%", py: 8 }}>
+    <Box sx={{ position: "relative", width: "100%" }}>
       {/* Particles Background */}
       <Box
         sx={{
