@@ -6,7 +6,7 @@ import Skills from "./components/Skills";
 import ContactForm from "./components/ContactForm";
 // import Particles from "./librabryCode/Particles";
 import Project from "./components/Project";
-// import SplashCursor from './SplashCursor'
+import SplashCursor from './SplashCursor'
 function App() {
   const homeRef = useRef(null);
   const skillRef = useRef(null);
@@ -41,7 +41,7 @@ function App() {
           alphaParticles={false}
           disableRotation={false}
         /> */}
-        {/* <SplashCursor/> */}
+        <SplashCursor/>
       </div>
 
       {/* Main Content */}
