@@ -5,7 +5,7 @@ import Noise from "../librabryCode/Noise";
 
 const ContactSection = () => {
     return (
-        <Box sx={{ width: "100%", py: 10, color: "white", position: "relative" }}>
+        <Box sx={{ width: "99%", color: "white", position: "relative" }}>
             <Noise
                 patternSize={250}
                 patternScaleX={1}
@@ -22,7 +22,8 @@ const ContactSection = () => {
                     sx={{
                         fontSize: { xs: "2rem", md: "3.5rem" },
                         textAlign: { xs: "center", md: "center" },
-                        color: "#FF416C"
+                        color: "#FF416C",
+                        paddingTop:'30px'
                     }}
                 >
                     Contact

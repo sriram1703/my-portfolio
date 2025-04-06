@@ -72,8 +72,8 @@ function Techstack() {
             {allIcons.map(({ Icon, key, color, bg }) => (
               <Box key={key} sx={{ p: 1, display: 'flex', justifyContent: 'center' }}>
                 <Box sx={{
-                  width: 100,
-                  height: 100,
+                  width: 70,
+                  height: 70,
                   borderRadius: '50%',
                   background: bg,
                   backdropFilter: 'blur(4px)',
